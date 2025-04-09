@@ -1,0 +1,3 @@
+testando
+arquivo 
+a.txt
